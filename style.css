@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+    margin: 0;
+}
+h2{
+    font-size: 50px;
+    
+    
+
+}
+p{
+    font-size: 20px;
+    color: dimgray;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2% ;
+    
+}
+#half-area{
+    padding-left: 20%;
+    padding-top:30% ;
+}
+#half-area h1{
+    font-size: 70px;
+    color: rgb(163, 20, 219);
+}
+.half-width img{
+    width: 100%;
+    padding-top: 15%;
+}
+.top-banner{
+    background-image: url( ./header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+     height: 500px;
+     padding-bottom: 300px;
+     
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700px;
+
+
+}
+/*section 2 style start*/
+.peter-dream{
+    background-image: url(./biography-bg.png);
+    margin-top: 200px;
+    
+}
+
+.second-width{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    padding-top: 5%;
+       
+}
+.second-width img{
+    width: 70%;
+}
+.second-width h1{
+    font-size: 50px;
+    padding-top: 20%;
+    
+}
+.text-area{
+    padding-top: 15%;
+    padding-right: 10%;
+}
+.text-area h1{
+    font-size: 50px;
+}
+
+
+
+
